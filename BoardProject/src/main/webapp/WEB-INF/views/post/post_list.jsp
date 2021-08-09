@@ -8,5 +8,7 @@
 </head>
 <body>
 	게시글 목록 페이지
+	
+	<a href="${root}post/post_detail">게시글 상세 조회</a>
 </body>
 </html>
