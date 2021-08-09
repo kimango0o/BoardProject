@@ -7,6 +7,7 @@
 <title>INDEX</title>
 </head>
 <body>
-	메인 페이지
+	<!-- 게시글 목록 조회 페이지 불러오기 -->
+	<%@include file="post/post_list.jsp"%>
 </body>
 </html>
